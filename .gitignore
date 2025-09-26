@@ -1,0 +1,17 @@
+# 忽略 PowerShell 历史文件
+ConsoleHost_history.txt
+
+# 忽略本地设置和缓存
+*.log
+*.tmp
+*.lnk
+
+# 忽略 VSCode 工作区设置
+.vscode/
+
+# 忽略 Windows 系统文件
+Thumbs.db
+Desktop.ini
+
+# 忽略敏感信息文件（如有）
+secrets.ps1

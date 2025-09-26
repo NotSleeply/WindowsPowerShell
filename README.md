@@ -5,3 +5,7 @@
 ## 使用方法
 
 -  将 `Microsoft.PowerShell_profile.ps1` 放置到 PowerShell 配置目录（如 `C:\Users\<用户名>\Documents\WindowsPowerShell\`）。
+
+## 许可
+
+本项目采用 [MIT License](./LICENSE) 许可，欢迎自由使用和修改。
