@@ -1,6 +1,6 @@
 # [WindowsPowerShell 配置](https://github.com/NotSleeply/WindowsPowerShell)
 
-本项目包含[个人](https://github.com/NotSleeply) PowerShell 配置文件和常用命令别名，旨在提升命令行操作效率。
+本项目包含[个人](https://github.com/NotSleeply) [`PowerShell`](https://learn.microsoft.com/zh-cn/powershell/scripting/overview?view=powershell-7.5) 配置文件和常用命令别名，旨在提升命令行操作效率。
 
 ## 使用方法
 
