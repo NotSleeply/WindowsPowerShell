@@ -1,10 +1,6 @@
-function Get-DetailedChildItem { Get-ChildItem -Force }
-
-New-Alias -Name ll -Value Get-DetailedChildItem
-New-Alias -Name grep -Value Select-String
-New-Alias -Name redis -Value "D:\program files\redis\redis-server.exe"
-New-Alias -Name fuck -Value tldr
-
+function Get-DetailedChildItem {
+     Get-ChildItem -Force 
+}
 function ifconfig {
     ipconfig /all
 }
@@ -29,3 +25,11 @@ function ag-q {
 function ag-dp {
     ollama run deepseek-r1:latest @Args
 }
+
+
+
+
+New-Alias -Name ll -Value Get-DetailedChildItem
+New-Alias -Name grep -Value Select-String
+New-Alias -Name redis -Value "D:\program files\redis\redis-server.exe"
+New-Alias -Name fuck -Value tldr

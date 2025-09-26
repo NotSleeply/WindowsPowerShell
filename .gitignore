@@ -6,8 +6,7 @@ ConsoleHost_history.txt
 *.tmp
 *.lnk
 
-# 忽略 VSCode 工作区设置
-.vscode/
+
 
 # 忽略 Windows 系统文件
 Thumbs.db
